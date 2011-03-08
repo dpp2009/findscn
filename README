@@ -10,3 +10,4 @@ cat example1.txt | ./findscn
 致谢
 nlpbamboo http://code.google.com/p/nlpbamboo
 crf++ http://crfpp.sourceforge.net/
+搜狗输入法细胞词库 http://pinyin.sogou.com/dict/
